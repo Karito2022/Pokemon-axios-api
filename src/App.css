@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.botonBuscar{
+  background-color: rgb(166, 184, 182);
+  border-radius: 0px;
+  cursor: pointer;
+}
